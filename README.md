@@ -1,7 +1,7 @@
 # 3D sphere redering with OpenGL
 
-[sphere.hpp](#include/sphere.hpp)
-[sphere.cpp](#src/sphere.cpp)
+[sphere.hpp](include/sphere.hpp)
+[sphere.cpp](src/sphere.cpp)
 
 ![image](images/sphere1.png)
 
